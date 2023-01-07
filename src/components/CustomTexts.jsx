@@ -13,7 +13,7 @@ className={`font-normal text-[14px] text-white ${textStyles}`}
   <motion.span
   variants={textVariant2}
   key={index}
-  className="text-secondary-white"
+  className="text-[#C7C7C7]"
   >
     {letter === ' ' ? '\u00A0' :letter}
   </motion.span>

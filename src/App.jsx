@@ -5,7 +5,7 @@ function App() {
  
     return (
     
-      <div className="bg-primary-black overflow-hidden">
+      <div className="bg-[#1A232E] overflow-hidden">
       <Navbar />
       <Hero />
       <div className="relative">
